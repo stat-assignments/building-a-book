@@ -1,5 +1,7 @@
 ---
-output: github_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 
@@ -65,7 +67,6 @@ Errors happen, they are frustrating, but if we learn something from them, we can
 **Deliverable (2):** Write a paragraph on the biggest problem you encountered when you were building the book, (and how you managed to solve it.)
 
 
-You can write your experience directly into the `README.Rmd` file. Just make sure that you change the yaml at the top: change the author at the top, and give your post a new title (don't change the category :)) 
-
+You can write your experience directly into the `READEM.Rmd` file. 
 Commit and push to your repo and you are done!
 
