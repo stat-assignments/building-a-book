@@ -64,5 +64,5 @@ them, we can turn them into valuable experiences.
 encountered when you were building the book, (and how you managed to
 solve it.)
 
-You can write your experience directly into the `README.Rmd` file.
+You can write your experience directly into the `README.qmd` file.
 Commit and push to your repo and you are done!

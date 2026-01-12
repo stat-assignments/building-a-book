@@ -65,6 +65,6 @@ Errors happen, they are frustrating, but if we learn something from them, we can
 **Deliverable (2):** Write a paragraph on the biggest problem you encountered when you were building the book, (and how you managed to solve it.)
 
 
-You can write your experience directly into the `README.Rmd` file. 
+You can write your experience directly into the `README.qmd` file. 
 Commit and push to your repo and you are done!
 
